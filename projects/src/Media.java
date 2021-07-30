@@ -1,4 +1,4 @@
-public class HelloWorldApp {
+public class Media {
     public static void main(String[] args) {
         double a = 1.58;
         double b = 2.07;
